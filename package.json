@@ -1,0 +1,16 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "This is my first web api app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihir Raj Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.18.1",
+    "parser": "^0.1.4"
+  }
+}
